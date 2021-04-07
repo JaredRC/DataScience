@@ -1,0 +1,6 @@
+library(dplyr)
+library(ggplot2)
+library(dslabs)
+data(heights)
+data(murders)
+p <- ggplot(murders)
